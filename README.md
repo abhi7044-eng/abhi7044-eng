@@ -95,15 +95,16 @@ I'm *Abhishek Kumar, a final-year **BCA student* with a specialization in *Data 
 ## 📈 GitHub Stats & Trophies
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=sahil6000&theme=radical&margin-w=10&row=1" />
+ <img src="https://github-profile-trophy.vercel.app/?username=abhi7044-eng&theme=radical&margin-w=10&row=1" />
  <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil6000&layout=compact&theme=radical" height="170" />
- <img src="https://github-readme-stats.vercel.app/api?username=sahil6000&show_icons=true&theme=radical" height="170" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7044-eng&layout=compact&theme=radical" height="170" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abhi7044-eng&show_icons=true&theme=radical" height="170" />
  <br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil6000&theme=radical" height="170"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi7044-eng&theme=radical" height="170"/>
  <br>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sahil6000&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi7044-eng&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
+
 
 ---
 
