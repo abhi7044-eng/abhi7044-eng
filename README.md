@@ -78,7 +78,7 @@ I'm *Abhishek Kumar, a final-year **BCA student* with a specialization in *Data 
 
 ## 💼 Featured Projects
 
-### 🔹 [🌐 Digital Portfolio – Web Page](abhi7044-eng.github.io/abhishekportfolio.github.in/)
+### 🔹 [🌐 Digital Portfolio – Web Page](https://abhi7044-eng.github.io/abhishekportfolio.github.in/)
 > A sleek, personal website showcasing my work, projects, and achievements in web development and data analytics.
 
 ### 🔹 [🧠 J.A.R.V.I.S. – AI Voice Assistant (Python)](https://github.com/sahil6000/Jarvis-)
@@ -109,7 +109,7 @@ I'm *Abhishek Kumar, a final-year **BCA student* with a specialization in *Data 
 
 ## 🌐 Connect With Me
 <p align="center">
- <a href="https://github.com/abhi7044-eng/Abhishek-Kumar" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+ <a href="https://abhi7044-eng.github.io/abhishekportfolio.github.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/abhishekkr704com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://github.com/abhi7044-eng" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="mailto:abhishekkumar727783@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
