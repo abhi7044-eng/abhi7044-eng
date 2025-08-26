@@ -22,9 +22,6 @@
  <img src="https://github.com/abhi7044-eng/abhi7044-eng/blob/main/github-header-img.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey! I am Abhishek Kumar 👋</h1>
-<h3 align="center">Data Analyst | Frontend Developer</h3>
-
 
 
 <!-- ✅ Visitor count -->
