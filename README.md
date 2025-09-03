@@ -41,7 +41,7 @@ I'm *Abhishek Kumar, a final-year **BCA student* with a specialization in *Data 
 - 📄 [Data Visualization By Forage](https://drive.google.com/file/d/1wNrXq4D5w5JZz1_C0oGBwD4qOlGE6Dm_/view?usp=drive_link)
 - 📄 [R for Data Science Certificate](https://drive.google.com/file/d/1ljShXTR4CLnxIzTiOpKin2N9yYx6X4Hv/view?usp=drive_link)
 - 📄 [Machine Learning with Python Certification](https://drive.google.com/file/d/1FTvPdFNX0oVvUoUfTPRPq7Gnq7W4ewmP/view?usp=drive_link)
-
+- 📄 [Web Development Front-End By 1Stop.ai](https://drive.google.com/file/d/1K16Jl0FCPHi2korIqJLreD-cZCHGKwt1/view?usp=drive_link)
 ---
 
 ## 🏆 Achievements
